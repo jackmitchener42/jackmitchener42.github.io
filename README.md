@@ -1,7 +1,7 @@
 ## Jack Mitchener
-I am a **Math-Computer Science** student. I currently am waiting to hear back from law schools that I applied to back in October. So far I have heard back from UCLA and was admitted! I am very excited about this and am hoping to hear back more good news in the next couple months. My goal is to become an _ _intellectual property_ _ or _ _patent lawyer_ _ in the future. I want to develop a strong background in Computer Science so I can be the best lawyer possible for Software Engineers and other developers when they are trying to protect their products. 
+I am a **Math-Computer Science** student. I currently am waiting to hear back from law schools that I applied to back in October. So far I have heard back from UCLA and was admitted! I am very excited about this and am hoping to hear back more good news in the next couple months. My goal is to become an  _intellectual property_  or  _patent lawyer_  in the future. I want to develop a strong background in Computer Science so I can be the best lawyer possible for Software Engineers and other developers when they are trying to protect their products. 
 
-My favorite quote from the tv show _ _Community_ _ is from Abed:
+My favorite quote from the tv show _Community_  is from Abed:
 > Some flies are too awesome for the wall.
 
 
