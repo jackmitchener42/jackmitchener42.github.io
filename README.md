@@ -28,5 +28,6 @@ A helpful website for coding in Java is [this](https://docs.oracle.com/javase/7/
 3. Java
 
 ### Goals Accomplished
-[x] Be admitted to a law school
-[ ] Be admitted to multiple law schools
+- [x] Be admitted to a law school
+- [ ] Be admitted to multiple law schools
+
