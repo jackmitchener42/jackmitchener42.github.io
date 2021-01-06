@@ -6,9 +6,10 @@ My favorite quote from the tv show _Community_  is from Abed:
 
 
 The best line of code to know is:
-'''
+
+```
 git stash
-'''
+```
 
 A helpful website for coding in Java is [this](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html).
 
