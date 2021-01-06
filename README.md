@@ -32,4 +32,4 @@ A helpful website for coding in Java is [this](https://docs.oracle.com/javase/7/
 - [x] Be admitted to a law school
 - [ ] Be admitted to multiple law schools
 
-[Image of Jack (In the Center)](../110_Photo.png)
+![Image of Jack](../110_Photo.png)
